@@ -3,6 +3,7 @@ A weather app made using OpenWeatherMap API in Vanilla JavaScript.
 
 The app tells the current temperature and some additional information like Air Quality Index, Real Feel, Humidity, Highest Temperature, Lowest Temperature, Wind Speed, Wind Direction, Visibility, Pressure, Sunrise and Sunset.
 
+Github link:https://github.com/Sathvika027/Weather_Forecast_app_Openweathermap_API
 
 ## Configuration
 To use the OpenWeatherMap API, you need to obtain an API key. Follow these steps to set up your API key:
